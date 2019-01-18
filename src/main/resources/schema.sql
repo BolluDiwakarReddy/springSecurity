@@ -1,0 +1,1 @@
+create table Student(id INTEGER(20),name VARCHAR(30),branch VARCHAR(30),primary key(id));
